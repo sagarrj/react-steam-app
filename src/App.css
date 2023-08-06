@@ -1,6 +1,18 @@
-.app-body{
+.app-body {
   display: flex;
 }
 
-.app-main{
+.app-body {
+  min-height: 77vh;
+  position: relative;
+}
+
+.page-footer {
+}
+
+.add-games {
+  position: absolute;
+  right: 3%;
+  bottom: 3%;
+  z-index: 5;
 }
